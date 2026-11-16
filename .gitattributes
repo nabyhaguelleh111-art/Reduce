@@ -1,0 +1,12 @@
+# Normalise les fins de ligne : stockées en LF dans le dépôt,
+# converties automatiquement selon l'OS de chacun.
+* text=auto eol=lf
+
+# Fichiers qui doivent rester en binaire
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
