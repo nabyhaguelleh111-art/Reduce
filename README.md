@@ -1,6 +1,6 @@
 # Todo App — React + Redux Toolkit
 
-Petit projet de liste de tâches (todo list) fait avec React et Redux Toolkit, dans le cadre de ma formation GOMYCODE.
+Petit projet de liste de tâches (todo list) fait avec React et Redux Toolkit.
 
 ## Ce que fait l'application
 
